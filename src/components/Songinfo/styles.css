@@ -1,0 +1,14 @@
+.song-info{
+    display : flex ;
+    flex-direction:column; /* 2 lignes our dirre te7t ba3thom fi centr */
+   align-items: center;
+}
+.song-info img{
+    width: 100%;
+   border-radius: 20%;
+   max-width: 250px;
+   margin-bottom : 10px; /* espace avec le chose qui est sous */
+}
+.song-info h3{
+ font-size :25px;
+}

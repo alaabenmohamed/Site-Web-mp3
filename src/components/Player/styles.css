@@ -1,0 +1,9 @@
+.music-player {
+    background-color: #e2e2e2;
+    margin: 0px auto;/* auto :pour le cntr de gauche et droite */
+    padding: 3rem; /* 1rem =16 px */
+    border-radius: 5rem; 
+    /* 7awaf mayla */
+    width: 25rem;
+  }
+  

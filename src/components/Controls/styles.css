@@ -1,0 +1,20 @@
+.controls {
+    margin: 2rem 0rem; /* 2 mn foug w ln louta w 0 mn yemin  w yessar */
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    font-size: 1.5rem;
+  }
+  
+  .player-icon {
+    cursor: pointer; /* la posibilte de clic */
+  }
+  
+  .player-icon:hover { /* hover si existe curseur donc modifie couleur*/
+    color: rgb(96, 23, 23);
+  }
+  
+  .play-button {
+    font-size: 3rem; /* 3*16=48px*/
+  }
+  
